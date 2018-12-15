@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "A2881dante\\BlockchainApi\\CryptobirgeServiceProvider"
+                "A2881dante\\BlockchainApi\\BlockchainApiServiceProvider"
             ]
         }
     }
